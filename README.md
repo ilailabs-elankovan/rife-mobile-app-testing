@@ -121,3 +121,72 @@ SUGGESTIONS FOR IMPROVEMENT: We can add refresh button in the app.
 **SHOP HOME**
 • Should display the web-page browser; 
 
+------------------------------------------------------------
+
+**Testing Instructions**
+
+**1. App Home & Basics**
+
+**1.1 Onboarding Screens**
+- Upon initial installation, verify the presence of onboarding screens.
+- Modify content from the backend and confirm dynamic updates in the app.
+
+**1.2 Navigation**
+- After successful login, ensure smooth navigation across all app pages.
+
+**1.3 Logout**
+- Click the 'logout' button on the application home.
+- Verify successful logout and redirection to the login page.
+- Bug: After logout, check if navigation still redirects to the app home.
+
+**1.4 Login**
+- Test login functionality with correct credentials.
+- Test error message display for incorrect login credentials.
+
+**1.5 Social Media Login**
+- Developer to conduct testing.
+
+**1.6 Forget Password**
+- Enter email address to receive the password reset URL.
+- Click on the URL to reset the password and attempt login.
+
+**1.7 Create User**
+- Select issues and verify app's response.
+- Confirm functionality of consent form.
+- Ensure validation of entered credentials and successful account creation.
+
+**2. Home Menu**
+- Confirm display of 'favorite sequences' section.
+- Verify display of FAQ section.
+- Check display conditions for 'about us' video.
+
+**3. Backend Testing (Elango, Raziqa)**
+- Update FAQ title and body to check reflection in the app.
+
+**3.1 Favorite Seq Section**
+- Verify presence of favorited sequences from the Sequence Menu.
+- Test addition/removal of sequences from the playlist.
+- Confirm update of favorites upon navigation.
+
+**4. Sequences Home**
+- Check display of sequence list from the backend.
+- Verify updates or modifications to sequences reflect in the app.
+- Test marking/unmarking favorites and adding/removing from the playlist.
+
+**5. Player Home**
+- Navigate to the Player Home from the bottom navigation menu or sequence card.
+- Check sample frequencies display.
+- Verify display of particular frequencies when navigated from the sequence card.
+- Test play and stop buttons functionality.
+- Confirm automatic transition between frequencies during playback.
+- Ensure display of sequence description populated from the backend.
+- Bug: Verify correction of wrong duration display on frequency card.
+
+**6. Playlist Home**
+- Confirm only added sequences appear.
+- Verify removal of sequences results in their absence.
+- Bug: Fix or add validation for removed sequences.
+
+**7. Shop Home**
+- Confirm display of the in-app browser for the shopping website.
+
