@@ -53,6 +53,8 @@ website.
 
 ------------------------------------------------
 
+<!--
+
 **Testing Instruction**
 
 **APP HOME & BASICS**
@@ -120,6 +122,8 @@ SUGGESTIONS FOR IMPROVEMENT: We can add refresh button in the app.
 
 **SHOP HOME**
 • Should display the web-page browser; 
+
+-->
 
 ------------------------------------------------------------
 
