@@ -1,4 +1,7 @@
 ### Rife Mobile App - Testing 
 
-*This page is intended for the internal team at ilaiLabs, and should be reffered as instruction manual for testing.*
+*This page is intended for the internal team at ilaiLabs, and should be reffered as instruction manual for testing Rife Mobile App.*
+
+[Feature App - Demo Video]()
+
 
