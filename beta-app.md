@@ -20,6 +20,8 @@
 
 10 if possible integrate the search in feq/seq - in playlist creation; 
 
+11 player home shows some red box - on navigation - during data load; 
+
 
 ------------------------------------------------------
 
