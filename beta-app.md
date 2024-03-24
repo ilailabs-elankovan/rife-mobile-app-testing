@@ -1,6 +1,6 @@
 **FEATURES TO IMPROVE**
 
-1 the home page - can not scroll down after scrolling up 
+1 the home page - can not scroll down after scrolling up // pull data from the firebase - file; 
 
 2 disable the icons in the menu and notification menu - with disabled - with opacity - so that users don't use them; 
 
