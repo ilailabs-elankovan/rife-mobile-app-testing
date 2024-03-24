@@ -19,3 +19,12 @@
 9 enhace the 'head, neck' dropdown ui in the feedback form; 
 
 10 if possible integrate the search in feq/seq - in playlist creation; 
+
+
+------------------------------------------------------
+
+**IN ANDROID**
+
+• app crash on the end of freq play; seq play in plist; 
+
+
