@@ -24,6 +24,12 @@
 
 12 update player bg icon color - from the player-home-two class file
 
+------------------------------------------------------
+
+elankovanmg@gmail.com
+
+Elan@123
+
 
 ------------------------------------------------------
 
