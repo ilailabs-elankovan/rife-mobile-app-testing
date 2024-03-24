@@ -20,7 +20,9 @@
 
 10 if possible integrate the search in feq/seq - in playlist creation; 
 
-11 player home shows some red box - on navigation - during data load; 
+11 player home shows some red box - on navigation - during data load; disable the back arrow color - to transperanet; in this navigation; 
+
+12 update player bg icon color - from the player-home-two class file
 
 
 ------------------------------------------------------
