@@ -24,6 +24,8 @@
 
 12 update player bg icon color - from the player-home-two class file
 
+13 while creating the playlist - mark the 3 seq and 2 palylist added sub-title dynamically from the function; 
+
 ------------------------------------------------------
 
 elankovanmg@gmail.com
