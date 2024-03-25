@@ -26,6 +26,8 @@
 
 13 while creating the playlist - mark the 3 seq and 2 palylist added sub-title dynamically from the function; 
 
+14 app should store - favourites to userAnalytics; 
+
 ------------------------------------------------------
 
 elankovanmg@gmail.com
