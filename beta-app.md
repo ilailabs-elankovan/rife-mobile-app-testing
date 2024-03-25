@@ -28,6 +28,8 @@
 
 14 app should store - favourites to userAnalytics; 
 
+15 convert pop-up to page view - when feedback completed; 
+
 ------------------------------------------------------
 
 elankovanmg@gmail.com
