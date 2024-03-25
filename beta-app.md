@@ -16,7 +16,7 @@
 
 8 login isn't working sometimes; sticks in the loader page; 
 
-9 enhace the 'head, neck' dropdown ui in the feedback form; 
+~9 enhace the 'head, neck' dropdown ui in the feedback form;~ (1) 
 
 10 if possible integrate the search in feq/seq - in playlist creation; 
 
